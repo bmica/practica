@@ -1,29 +1,27 @@
- /* #AFB3C0
-#5F6478
-#FAFAFA */
-
 .card {
     border-radius: 10px;
     border-left: 10px solid pink;
     padding: 20px;
     box-shadow: 0 0 8px 0 rgba(144,149,161,.15);
+    font-family: 'Nunito', sans-serif;
   }
-  h1 {
+  .titulo {
       color: #ECB8CE;
   }
-span {
-    color: #AFB3C0 ;
+  .tipo {
+    color: #AFB3C0;
+  }
+.nombre {
+    color: #5F6478;
+    font-weight: bold;
   }
   .avatar {
     border-radius: 50px;
-    width: 30px;
-    height: 30px;
+    width: 55px;
+    height: 55px;
+    background-image: url(../../../../cat.jpg);
+    background-size: cover;
   }
-p {
+.parrafo {
     color: #5F6478;
 }
-
-  img {
-      width: 80px;
-      height: 80px;
-  }
