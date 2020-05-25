@@ -1,0 +1,30 @@
+.parrafo {
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 50px;
+    text-align: center;
+    font-family: "Nunito", sans-serif;
+    color: plum;
+    background-color: royalblue;
+}
+
+.caja {
+    background-color: plum;
+    height: 300px;
+    width: 300px;
+}
+
+.imagen {
+    background-image: url("https://www.rocketcode.com.ar/assets/logo/full_logo.svg");
+height: 300px;
+width: 1200px;
+background-position: center center;
+background-size: cover;
+}
+.gato{
+    background-image: url("../../../../cat.jpg");
+    height: 300px;
+    width: 300px;
+    background-position: center center;
+    background-size: cover;
+}
