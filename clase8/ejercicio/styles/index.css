@@ -1,0 +1,37 @@
+
+.title {
+    color: grey;
+}
+
+body {
+    justify-content: center;
+}
+.card {
+    color: white;
+    width: 90%;
+    height: 600px;
+    background-size: cover;
+    border-radius: 10px;
+    padding: 20px;
+    box-sizing: border-box;
+    margin: 20px;
+}
+ .catone {
+    background-image: url(https://estaticos.elperiodico.com/resources/jpg/1/6/gato-1502194230861.jpg);
+}
+
+.cattwo {
+    background-image: url(https://cdn.royalcanin-weshare-online.io/gyJAPmYBaxEApS7LxQae/v1/ec40h-why-is-your-cat-scratching-so-much-hero-cat);
+} 
+
+.catthree {
+    background-image: url(https://cnnespanol2.files.wordpress.com/2019/05/grumpy-cat-foto.jpg?quality=100&strip=info);
+}
+
+.catfour {
+    background-image: url(https://s.france24.com/media/display/8c13820c-5b0e-11e9-bf90-005056a964fe/w:1240/p:16x9/gato.webp);
+}
+
+.catfive {
+    background-image: url(https://www.purina.es/gato/purina-one/sites/g/files/mcldtz1856/files/2018-06/Mi_gato_me_muerde%281%29.jpg);
+}
